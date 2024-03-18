@@ -22,9 +22,10 @@ Steps:
 3.  **Data Models:**
 
     -   `User`: Attributes should include `email`, `password`, and `role`.
-    -   `PressRelease`: Attributes like `title`, `content`, `publish_date`, and a foreign key for association with `Organization`.
+    -   `PressRelease`: Attributes like `title`, `content`, `publish_date`.
     -   `Publisher`: Attributes like `name` and `description`.
-    -   `Organization`: Attributes like `name`, `description`, and others you deem necessary.
+    -   `Organization`: Attributes like `name`, `description`,
+    -   To all data models, add other attributes you deem necessary.
     -   Specify the associations among the models as needed.
       
 4.  **Controllers:**
@@ -39,10 +40,14 @@ Steps:
 
     -   Implement user authentication. You're free to use any reasonable method or gem (e.g., Devise, JWT).
       
-7.  **Testing with RSPEC:**
+7.  **Front-end Views with Hotwire:**
+
+    - Implement at least one feature using Ruby on Rails Hotwire, integrating both Stimulus and Turbo. This will demonstrate your ability to enhance the user experience with real-time updates and interactive interfaces.
+  
+8.  **Testing with RSPEC:**
 
     -   Write unit tests using RSPEC for all your models, controllers, and any additional services you might implement.
       
-8.  **Creativity:**
+9.  **Creativity:**
 
     -   Implement a couple features that show off your creativity and depth of understanding of Rails.
