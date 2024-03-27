@@ -1,7 +1,7 @@
 Press Release Manager - Code Challenge
 ======================================
 
-Welcome to the Press Release Manager challenge. Your task is to build a Ruby on Rails app to evaluate your skills in back-end development, data modeling, validation, testing, and authentication.
+Welcome to the Press Release Manager challenge. Your task is to build a Ruby on Rails app to evaluate your skills in full stack Rails development, data modeling, validation, testing, and authentication.
 
 ### Goal
 
