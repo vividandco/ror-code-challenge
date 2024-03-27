@@ -65,6 +65,6 @@ Steps:
 
     -   Write unit tests using RSPEC for all your models, controllers, and any additional services you might implement.
       
-10.  **Creativity:**
+9.  **Creativity:**
 
-    -   Implement a couple features that show off your creativity and depth of understanding of Rails.
+    - Implement a couple features that show off your creativity and depth of understanding of Rails.
